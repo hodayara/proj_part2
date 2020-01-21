@@ -1,0 +1,207 @@
+C:\Users\hoday\Downloads\2.1.2020(!!)\main\DS1\bin\Debug\DS1.dll
+C:\Users\hoday\Downloads\2.1.2020(!!)\main\DS1\bin\Debug\DS1.pdb
+C:\Users\hoday\Downloads\2.1.2020(!!)\main\DS1\bin\Debug\BE.dll
+C:\Users\hoday\Downloads\2.1.2020(!!)\main\DS1\bin\Debug\BE.pdb
+C:\Users\hoday\Downloads\2.1.2020(!!)\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\hoday\Downloads\2.1.2020(!!)\main\DS1\obj\Debug\DS1.csproj.CoreCompileInputs.cache
+C:\Users\hoday\Downloads\2.1.2020(!!)\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\hoday\Downloads\2.1.2020(!!)\main\DS1\obj\Debug\DS1.dll
+C:\Users\hoday\Downloads\2.1.2020(!!)\main\DS1\obj\Debug\DS1.pdb
+C:\Users\שיר יהודה\Downloads\05.01.2020!\main\DS1\bin\Debug\DS1.dll
+C:\Users\שיר יהודה\Downloads\05.01.2020!\main\DS1\bin\Debug\DS1.pdb
+C:\Users\שיר יהודה\Downloads\05.01.2020!\main\DS1\bin\Debug\BE.dll
+C:\Users\שיר יהודה\Downloads\05.01.2020!\main\DS1\bin\Debug\BE.pdb
+C:\Users\שיר יהודה\Downloads\05.01.2020!\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\שיר יהודה\Downloads\05.01.2020!\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\שיר יהודה\Downloads\05.01.2020!\main\DS1\obj\Debug\DS1.dll
+C:\Users\שיר יהודה\Downloads\05.01.2020!\main\DS1\obj\Debug\DS1.pdb
+C:\Users\hoday\Downloads\7.1.2020\main\DS1\bin\Debug\DS1.dll
+C:\Users\hoday\Downloads\7.1.2020\main\DS1\bin\Debug\DS1.pdb
+C:\Users\hoday\Downloads\7.1.2020\main\DS1\bin\Debug\BE.dll
+C:\Users\hoday\Downloads\7.1.2020\main\DS1\bin\Debug\BE.pdb
+C:\Users\hoday\Downloads\7.1.2020\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\hoday\Downloads\7.1.2020\main\DS1\obj\Debug\DS1.csproj.CoreCompileInputs.cache
+C:\Users\hoday\Downloads\7.1.2020\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\hoday\Downloads\7.1.2020\main\DS1\obj\Debug\DS1.dll
+C:\Users\hoday\Downloads\7.1.2020\main\DS1\obj\Debug\DS1.pdb
+C:\Users\שיר יהודה\Downloads\08.01.2020\main\DS1\bin\Debug\DS1.dll
+C:\Users\שיר יהודה\Downloads\08.01.2020\main\DS1\bin\Debug\DS1.pdb
+C:\Users\שיר יהודה\Downloads\08.01.2020\main\DS1\bin\Debug\BE.dll
+C:\Users\שיר יהודה\Downloads\08.01.2020\main\DS1\bin\Debug\BE.pdb
+C:\Users\שיר יהודה\Downloads\08.01.2020\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\שיר יהודה\Downloads\08.01.2020\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\שיר יהודה\Downloads\08.01.2020\main\DS1\obj\Debug\DS1.dll
+C:\Users\שיר יהודה\Downloads\08.01.2020\main\DS1\obj\Debug\DS1.pdb
+C:\Users\hodayara\Downloads\9.1.2020\main\DS1\bin\Debug\DS1.dll
+C:\Users\hodayara\Downloads\9.1.2020\main\DS1\bin\Debug\DS1.pdb
+C:\Users\hodayara\Downloads\9.1.2020\main\DS1\bin\Debug\BE.dll
+C:\Users\hodayara\Downloads\9.1.2020\main\DS1\bin\Debug\BE.pdb
+C:\Users\hodayara\Downloads\9.1.2020\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\hodayara\Downloads\9.1.2020\main\DS1\obj\Debug\DS1.csproj.CoreCompileInputs.cache
+C:\Users\hodayara\Downloads\9.1.2020\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\hodayara\Downloads\9.1.2020\main\DS1\obj\Debug\DS1.dll
+C:\Users\hodayara\Downloads\9.1.2020\main\DS1\obj\Debug\DS1.pdb
+C:\Users\שיר יהודה\Downloads\9.1.2020(!)\main\DS1\bin\Debug\DS1.dll
+C:\Users\שיר יהודה\Downloads\9.1.2020(!)\main\DS1\bin\Debug\DS1.pdb
+C:\Users\שיר יהודה\Downloads\9.1.2020(!)\main\DS1\bin\Debug\BE.dll
+C:\Users\שיר יהודה\Downloads\9.1.2020(!)\main\DS1\bin\Debug\BE.pdb
+C:\Users\שיר יהודה\Downloads\9.1.2020(!)\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\שיר יהודה\Downloads\9.1.2020(!)\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\שיר יהודה\Downloads\9.1.2020(!)\main\DS1\obj\Debug\DS1.dll
+C:\Users\שיר יהודה\Downloads\9.1.2020(!)\main\DS1\obj\Debug\DS1.pdb
+C:\Users\hoday\Downloads\11.1.2020\main\DS1\bin\Debug\DS1.dll
+C:\Users\hoday\Downloads\11.1.2020\main\DS1\bin\Debug\DS1.pdb
+C:\Users\hoday\Downloads\11.1.2020\main\DS1\bin\Debug\BE.dll
+C:\Users\hoday\Downloads\11.1.2020\main\DS1\bin\Debug\BE.pdb
+C:\Users\hoday\Downloads\11.1.2020\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\hoday\Downloads\11.1.2020\main\DS1\obj\Debug\DS1.csproj.CoreCompileInputs.cache
+C:\Users\hoday\Downloads\11.1.2020\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\hoday\Downloads\11.1.2020\main\DS1\obj\Debug\DS1.dll
+C:\Users\hoday\Downloads\11.1.2020\main\DS1\obj\Debug\DS1.pdb
+C:\Users\hodayara\Downloads\12.01.2020\main\DS1\bin\Debug\DS1.dll
+C:\Users\hodayara\Downloads\12.01.2020\main\DS1\bin\Debug\DS1.pdb
+C:\Users\hodayara\Downloads\12.01.2020\main\DS1\bin\Debug\BE.dll
+C:\Users\hodayara\Downloads\12.01.2020\main\DS1\bin\Debug\BE.pdb
+C:\Users\hodayara\Downloads\12.01.2020\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\hodayara\Downloads\12.01.2020\main\DS1\obj\Debug\DS1.csproj.CoreCompileInputs.cache
+C:\Users\hodayara\Downloads\12.01.2020\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\hodayara\Downloads\12.01.2020\main\DS1\obj\Debug\DS1.dll
+C:\Users\hodayara\Downloads\12.01.2020\main\DS1\obj\Debug\DS1.pdb
+C:\Users\שיר יהודה\Downloads\12.01.12(!!!!)\main\DS1\bin\Debug\DS1.dll
+C:\Users\שיר יהודה\Downloads\12.01.12(!!!!)\main\DS1\bin\Debug\DS1.pdb
+C:\Users\שיר יהודה\Downloads\12.01.12(!!!!)\main\DS1\bin\Debug\BE.dll
+C:\Users\שיר יהודה\Downloads\12.01.12(!!!!)\main\DS1\bin\Debug\BE.pdb
+C:\Users\שיר יהודה\Downloads\12.01.12(!!!!)\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\שיר יהודה\Downloads\12.01.12(!!!!)\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\שיר יהודה\Downloads\12.01.12(!!!!)\main\DS1\obj\Debug\DS1.dll
+C:\Users\שיר יהודה\Downloads\12.01.12(!!!!)\main\DS1\obj\Debug\DS1.pdb
+C:\Users\hoday\Downloads\12.1.2020(!!!!!!)\main\DS1\bin\Debug\DS1.dll
+C:\Users\hoday\Downloads\12.1.2020(!!!!!!)\main\DS1\bin\Debug\DS1.pdb
+C:\Users\hoday\Downloads\12.1.2020(!!!!!!)\main\DS1\bin\Debug\BE.dll
+C:\Users\hoday\Downloads\12.1.2020(!!!!!!)\main\DS1\bin\Debug\BE.pdb
+C:\Users\hoday\Downloads\12.1.2020(!!!!!!)\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\hoday\Downloads\12.1.2020(!!!!!!)\main\DS1\obj\Debug\DS1.csproj.CoreCompileInputs.cache
+C:\Users\hoday\Downloads\12.1.2020(!!!!!!)\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\hoday\Downloads\12.1.2020(!!!!!!)\main\DS1\obj\Debug\DS1.dll
+C:\Users\hoday\Downloads\12.1.2020(!!!!!!)\main\DS1\obj\Debug\DS1.pdb
+C:\Users\שיר יהודה\Downloads\14.01.2020\main\DS1\bin\Debug\DS1.dll
+C:\Users\שיר יהודה\Downloads\14.01.2020\main\DS1\bin\Debug\DS1.pdb
+C:\Users\שיר יהודה\Downloads\14.01.2020\main\DS1\bin\Debug\BE.dll
+C:\Users\שיר יהודה\Downloads\14.01.2020\main\DS1\bin\Debug\BE.pdb
+C:\Users\שיר יהודה\Downloads\14.01.2020\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\שיר יהודה\Downloads\14.01.2020\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\שיר יהודה\Downloads\14.01.2020\main\DS1\obj\Debug\DS1.dll
+C:\Users\שיר יהודה\Downloads\14.01.2020\main\DS1\obj\Debug\DS1.pdb
+C:\Users\hodayara\Downloads\15.1.2020\main\DS1\bin\Debug\DS1.dll
+C:\Users\hodayara\Downloads\15.1.2020\main\DS1\bin\Debug\DS1.pdb
+C:\Users\hodayara\Downloads\15.1.2020\main\DS1\bin\Debug\BE.dll
+C:\Users\hodayara\Downloads\15.1.2020\main\DS1\bin\Debug\BE.pdb
+C:\Users\hodayara\Downloads\15.1.2020\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\hodayara\Downloads\15.1.2020\main\DS1\obj\Debug\DS1.csproj.CoreCompileInputs.cache
+C:\Users\hodayara\Downloads\15.1.2020\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\hodayara\Downloads\15.1.2020\main\DS1\obj\Debug\DS1.dll
+C:\Users\hodayara\Downloads\15.1.2020\main\DS1\obj\Debug\DS1.pdb
+C:\Users\שיר יהודה\Downloads\15.1.2020 (!)\15.1.2020\main\DS1\bin\Debug\DS1.dll
+C:\Users\שיר יהודה\Downloads\15.1.2020 (!)\15.1.2020\main\DS1\bin\Debug\DS1.pdb
+C:\Users\שיר יהודה\Downloads\15.1.2020 (!)\15.1.2020\main\DS1\bin\Debug\BE.dll
+C:\Users\שיר יהודה\Downloads\15.1.2020 (!)\15.1.2020\main\DS1\bin\Debug\BE.pdb
+C:\Users\שיר יהודה\Downloads\15.1.2020 (!)\15.1.2020\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\שיר יהודה\Downloads\15.1.2020 (!)\15.1.2020\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\שיר יהודה\Downloads\15.1.2020 (!)\15.1.2020\main\DS1\obj\Debug\DS1.dll
+C:\Users\שיר יהודה\Downloads\15.1.2020 (!)\15.1.2020\main\DS1\obj\Debug\DS1.pdb
+C:\Users\shis\Downloads\16.1.2020(!)\15.1.2020\main\DS1\bin\Debug\DS1.dll
+C:\Users\shis\Downloads\16.1.2020(!)\15.1.2020\main\DS1\bin\Debug\DS1.pdb
+C:\Users\shis\Downloads\16.1.2020(!)\15.1.2020\main\DS1\bin\Debug\BE.dll
+C:\Users\shis\Downloads\16.1.2020(!)\15.1.2020\main\DS1\bin\Debug\BE.pdb
+C:\Users\shis\Downloads\16.1.2020(!)\15.1.2020\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\shis\Downloads\16.1.2020(!)\15.1.2020\main\DS1\obj\Debug\DS1.csproj.CoreCompileInputs.cache
+C:\Users\shis\Downloads\16.1.2020(!)\15.1.2020\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\shis\Downloads\16.1.2020(!)\15.1.2020\main\DS1\obj\Debug\DS1.dll
+C:\Users\shis\Downloads\16.1.2020(!)\15.1.2020\main\DS1\obj\Debug\DS1.pdb
+Z:\16.1.2020(!)\15.1.2020\main\DS1\bin\Debug\DS1.dll
+Z:\16.1.2020(!)\15.1.2020\main\DS1\bin\Debug\DS1.pdb
+Z:\16.1.2020(!)\15.1.2020\main\DS1\bin\Debug\BE.dll
+Z:\16.1.2020(!)\15.1.2020\main\DS1\bin\Debug\BE.pdb
+Z:\16.1.2020(!)\15.1.2020\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+Z:\16.1.2020(!)\15.1.2020\main\DS1\obj\Debug\DS1.csproj.CoreCompileInputs.cache
+Z:\16.1.2020(!)\15.1.2020\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+Z:\16.1.2020(!)\15.1.2020\main\DS1\obj\Debug\DS1.dll
+Z:\16.1.2020(!)\15.1.2020\main\DS1\obj\Debug\DS1.pdb
+C:\Users\hoday\Downloads\16.1.2020(!!)\main\DS1\bin\Debug\DS1.dll
+C:\Users\hoday\Downloads\16.1.2020(!!)\main\DS1\bin\Debug\DS1.pdb
+C:\Users\hoday\Downloads\16.1.2020(!!)\main\DS1\bin\Debug\BE.dll
+C:\Users\hoday\Downloads\16.1.2020(!!)\main\DS1\bin\Debug\BE.pdb
+C:\Users\hoday\Downloads\16.1.2020(!!)\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\hoday\Downloads\16.1.2020(!!)\main\DS1\obj\Debug\DS1.csproj.CoreCompileInputs.cache
+C:\Users\hoday\Downloads\16.1.2020(!!)\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\hoday\Downloads\16.1.2020(!!)\main\DS1\obj\Debug\DS1.dll
+C:\Users\hoday\Downloads\16.1.2020(!!)\main\DS1\obj\Debug\DS1.pdb
+C:\Users\שיר יהודה\Downloads\17.01.2020\main\DS1\bin\Debug\DS1.dll
+C:\Users\שיר יהודה\Downloads\17.01.2020\main\DS1\bin\Debug\DS1.pdb
+C:\Users\שיר יהודה\Downloads\17.01.2020\main\DS1\bin\Debug\BE.dll
+C:\Users\שיר יהודה\Downloads\17.01.2020\main\DS1\bin\Debug\BE.pdb
+C:\Users\שיר יהודה\Downloads\17.01.2020\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\שיר יהודה\Downloads\17.01.2020\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\שיר יהודה\Downloads\17.01.2020\main\DS1\obj\Debug\DS1.dll
+C:\Users\שיר יהודה\Downloads\17.01.2020\main\DS1\obj\Debug\DS1.pdb
+C:\Users\hodayara\Downloads\19.1.2020\main\DS1\bin\Debug\DS1.dll
+C:\Users\hodayara\Downloads\19.1.2020\main\DS1\bin\Debug\DS1.pdb
+C:\Users\hodayara\Downloads\19.1.2020\main\DS1\bin\Debug\BE.dll
+C:\Users\hodayara\Downloads\19.1.2020\main\DS1\bin\Debug\BE.pdb
+C:\Users\hodayara\Downloads\19.1.2020\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\hodayara\Downloads\19.1.2020\main\DS1\obj\Debug\DS1.csproj.CoreCompileInputs.cache
+C:\Users\hodayara\Downloads\19.1.2020\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\hodayara\Downloads\19.1.2020\main\DS1\obj\Debug\DS1.dll
+C:\Users\hodayara\Downloads\19.1.2020\main\DS1\obj\Debug\DS1.pdb
+C:\Users\שיר יהודה\Downloads\19.01.2020(!)\main\DS1\bin\Debug\DS1.dll
+C:\Users\שיר יהודה\Downloads\19.01.2020(!)\main\DS1\bin\Debug\DS1.pdb
+C:\Users\שיר יהודה\Downloads\19.01.2020(!)\main\DS1\bin\Debug\BE.dll
+C:\Users\שיר יהודה\Downloads\19.01.2020(!)\main\DS1\bin\Debug\BE.pdb
+C:\Users\שיר יהודה\Downloads\19.01.2020(!)\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\שיר יהודה\Downloads\19.01.2020(!)\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\שיר יהודה\Downloads\19.01.2020(!)\main\DS1\obj\Debug\DS1.dll
+C:\Users\שיר יהודה\Downloads\19.01.2020(!)\main\DS1\obj\Debug\DS1.pdb
+C:\Users\hoday\Downloads\19.1.2020(!!)\main\DS1\bin\Debug\DS1.dll
+C:\Users\hoday\Downloads\19.1.2020(!!)\main\DS1\bin\Debug\DS1.pdb
+C:\Users\hoday\Downloads\19.1.2020(!!)\main\DS1\bin\Debug\BE.dll
+C:\Users\hoday\Downloads\19.1.2020(!!)\main\DS1\bin\Debug\BE.pdb
+C:\Users\hoday\Downloads\19.1.2020(!!)\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\hoday\Downloads\19.1.2020(!!)\main\DS1\obj\Debug\DS1.csproj.CoreCompileInputs.cache
+C:\Users\hoday\Downloads\19.1.2020(!!)\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\hoday\Downloads\19.1.2020(!!)\main\DS1\obj\Debug\DS1.dll
+C:\Users\hoday\Downloads\19.1.2020(!!)\main\DS1\obj\Debug\DS1.pdb
+C:\Users\hodayara\Downloads\20.01.2020(!)\main\DS1\bin\Debug\DS1.dll
+C:\Users\hodayara\Downloads\20.01.2020(!)\main\DS1\bin\Debug\DS1.pdb
+C:\Users\hodayara\Downloads\20.01.2020(!)\main\DS1\bin\Debug\BE.dll
+C:\Users\hodayara\Downloads\20.01.2020(!)\main\DS1\bin\Debug\BE.pdb
+C:\Users\hodayara\Downloads\20.01.2020(!)\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\hodayara\Downloads\20.01.2020(!)\main\DS1\obj\Debug\DS1.csproj.CoreCompileInputs.cache
+C:\Users\hodayara\Downloads\20.01.2020(!)\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\hodayara\Downloads\20.01.2020(!)\main\DS1\obj\Debug\DS1.dll
+C:\Users\hodayara\Downloads\20.01.2020(!)\main\DS1\obj\Debug\DS1.pdb
+Z:\20.01.2020(!)\main\DS1\bin\Debug\DS1.dll
+Z:\20.01.2020(!)\main\DS1\bin\Debug\DS1.pdb
+Z:\20.01.2020(!)\main\DS1\bin\Debug\BE.dll
+Z:\20.01.2020(!)\main\DS1\bin\Debug\BE.pdb
+Z:\20.01.2020(!)\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+Z:\20.01.2020(!)\main\DS1\obj\Debug\DS1.csproj.CoreCompileInputs.cache
+Z:\20.01.2020(!)\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+Z:\20.01.2020(!)\main\DS1\obj\Debug\DS1.dll
+Z:\20.01.2020(!)\main\DS1\obj\Debug\DS1.pdb
+C:\Users\שיר יהודה\Downloads\20.01.2020(!!!!)\main\DS1\bin\Debug\DS1.dll
+C:\Users\שיר יהודה\Downloads\20.01.2020(!!!!)\main\DS1\bin\Debug\DS1.pdb
+C:\Users\שיר יהודה\Downloads\20.01.2020(!!!!)\main\DS1\bin\Debug\BE.dll
+C:\Users\שיר יהודה\Downloads\20.01.2020(!!!!)\main\DS1\bin\Debug\BE.pdb
+C:\Users\שיר יהודה\Downloads\20.01.2020(!!!!)\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\שיר יהודה\Downloads\20.01.2020(!!!!)\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\שיר יהודה\Downloads\20.01.2020(!!!!)\main\DS1\obj\Debug\DS1.dll
+C:\Users\שיר יהודה\Downloads\20.01.2020(!!!!)\main\DS1\obj\Debug\DS1.pdb
+C:\Users\hoday\Downloads\21.01.2020\main\DS1\bin\Debug\DS1.dll
+C:\Users\hoday\Downloads\21.01.2020\main\DS1\bin\Debug\DS1.pdb
+C:\Users\hoday\Downloads\21.01.2020\main\DS1\bin\Debug\BE.dll
+C:\Users\hoday\Downloads\21.01.2020\main\DS1\bin\Debug\BE.pdb
+C:\Users\hoday\Downloads\21.01.2020\main\DS1\obj\Debug\DS1.csprojAssemblyReference.cache
+C:\Users\hoday\Downloads\21.01.2020\main\DS1\obj\Debug\DS1.csproj.CoreCompileInputs.cache
+C:\Users\hoday\Downloads\21.01.2020\main\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\hoday\Downloads\21.01.2020\main\DS1\obj\Debug\DS1.dll
+C:\Users\hoday\Downloads\21.01.2020\main\DS1\obj\Debug\DS1.pdb
